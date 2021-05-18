@@ -1,0 +1,23 @@
+#map {
+    height: 100%;
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+.weather_city {
+  font-size: 24px;
+  font-weight: 700;
+  color:#000066;
+}
+
+.weather_description, .weather_main {
+  font-size: 20px;
+  color:#000066;
+}
+
+.weather_img {
+  background-color: rgb(204, 0, 0);
+}
